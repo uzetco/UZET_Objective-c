@@ -4,7 +4,7 @@ Use this UZET Objective c payment gateway to enable clients of your App to pay u
 
 ## Usage
 
-If you're using UZETCreateUrlPayment, you can call import it into your tweaks.
+If you're using UZETCreateUrlPayment, you can call import it into your App.
 
 ```objective-c
 #import "UZETCreateUrlPayment.h"
